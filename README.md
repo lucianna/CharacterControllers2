@@ -1,2 +1,2 @@
 # CharacterControllers2
-I lerned to use Courotines in C#
+I learned to use Courotines in C#
